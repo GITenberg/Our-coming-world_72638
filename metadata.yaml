@@ -1,0 +1,28 @@
+_repo: Our-coming-world_72638
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Michaud, Alfred Charles
+    gutenberg_agent_id: '56760'
+    url: http://www.gutenberg.org/2009/agents/56760
+description: ''
+gutenberg_issued: '2024-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72638'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/wu.89097410054
+pgterms:marc905: 20230228075443michaud
+pgterms:marc906: '1951'
+pgterms:marc907: US
+production_note: Aaron Adrignola, Tim Lindell, Graeme Mackreth and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from images made
+  available by the HathiTrust Digital Library.)
+publication_note: '  $aPhiladelphia :$bWorld Publication Press, $c1951.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Our coming world
+url: http://www.gutenberg.org/ebooks/72638
